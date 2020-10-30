@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  {:my_name:"Bella"
+  {:my_name:"Bella"}
 end
 
 def pioneer
-  { name: "Grace Hopper" }
+  { :name=> "Grace Hopper" }
 end
 
 
